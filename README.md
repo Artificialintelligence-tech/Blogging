@@ -23,5 +23,6 @@ Shared space for planning, discussing, and managing AI content for artificialint
 - AI for Business/Productivity
 - AI Coding & Data Science
 - AI Ethics/Society
+- and much more
 
 [See our content board →](#)
